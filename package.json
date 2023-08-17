@@ -1,0 +1,12 @@
+{
+  "name": "vue-input-currency",
+  "version": "1.0.0",
+  "description": "\"A simple currency input for vue3 that works with any currency/locale.",
+  "main": "index.js",
+  "author": "Jhonathan Candeu",
+  "license": "MIT",
+  "private": true,
+  "peerDependencies": {
+    "vue": "^3.0.0"
+  }
+}
