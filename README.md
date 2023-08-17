@@ -1,6 +1,6 @@
 # Currency Input for Vue3
 
-[![npm Version](https://badgen.net/npm/vue-input-currency?color=green)](https://www.npmjs.com/package/vue-input-currency)
+[![npm Version](https://badgen.net/npm/v/vue-input-currency?color=green)](https://www.npmjs.com/package/vue-input-currency)
 
 This package provides a HTML input that formats your number input to any currency using the [Intl.NumberFormat](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Intl/NumberFormat).
 
