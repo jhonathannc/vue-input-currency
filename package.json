@@ -1,6 +1,6 @@
 {
   "name": "vue-input-currency",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "\"A simple currency input for vue3 that works with any currency/locale.",
   "main": "index.js",
   "author": "Jhonathan Candeu",
@@ -8,5 +8,20 @@
   "private": false,
   "peerDependencies": {
     "vue": "^3.0.0"
-  }
+  },
+  "keywords": [
+    "vue",
+    "input mask",
+    "currency mask",
+    "currency input",
+    "money mask",
+    "money input",
+    "intl mask",
+    "intl input"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jhonathannc/vue-input-currency.git"
+  },
+  "homepage": "https://github.com/jhonathannc/vue-input-currency.git"
 }
